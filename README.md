@@ -22,7 +22,7 @@ This project is a "Time Stamped Sensor Data Logger" developed using the "LPC2148
 
 ## Project Block Diagram
 
-![Project Block Diagram](Screenshot%202026-09-13091038.png)
+![Project Block Diagram](Screenshot%202026-09-13%20091038.png)
 
 ---
 
