@@ -363,6 +363,8 @@ TIME_STAMPED_SENSOR_DATA_LOGGER/
 ```
 
 ---
+## Proteus Circuit Connections 
+![Project Block Diagram](Screenshot%202026-09-14%20103558.png)
 
 ## Project Output
 
