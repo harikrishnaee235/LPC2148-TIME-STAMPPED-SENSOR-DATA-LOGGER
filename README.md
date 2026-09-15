@@ -366,8 +366,17 @@ TIME_STAMPED_SENSOR_DATA_LOGGER/
 ## Proteus Circuit Connections 
 ![Project Block Diagram](Screenshot%202026-09-14%20103558.png)
 
+
 ## Proteus OUTPUT
 ![Project Block Diagram](Screenshot%202026-09-14%20103650.png)
+
+## Hardware Output
+![Project Connections](images/mini%20project%20circuit%20connections.jpeg)
+
+## Flash Magic Terminal Output
+
+![Flash Magic Terminal Output](images/flash%20terminal%20output.jpeg)
+
 
 ## Project Output
 
@@ -380,48 +389,6 @@ The system provides the following outputs:
 - User-editable RTC date and time.
 - User-editable temperature set point.
 - Continuous serial logging for monitoring and record keeping.
-
----
-
-## Serial Terminal Output
-
-Example UART log:
-
-```text
-TIME STAMPPED SENSOR DATA LOGGER
-
-13/09/2026 10:45:00 Temp=30.5°C Status=NORMAL
-13/09/2026 10:46:00 Temp=31.2°C Status=NORMAL
-13/09/2026 10:47:00 Temp=46.5°C Status=ALERT
-13/09/2026 10:48:00 Temp=43.8°C Status=NORMAL
-```
-
----
-
-## LCD Output
-
-Example LCD display during monitoring:
-
-```text
-Temp:30.5°C
-10:45:30 13/09
-```
-
-Example LCD display during alert:
-
-```text
-HIGH TEMP ALERT
-Temp:46.5°C
-```
-
-Example LCD display during Edit Mode:
-
-```text
-EDIT MODE
-1.HOUR 2.MIN
-```
-
----
 
 ## Applications
 
