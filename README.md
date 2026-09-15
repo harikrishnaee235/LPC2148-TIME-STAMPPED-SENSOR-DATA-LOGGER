@@ -1,4 +1,4 @@
-<img width="847" height="636" alt="image" src="https://github.com/user-attachments/assets/69da425a-c9ce-4fc0-839e-c7c97ec1acb8" /><img width="847" height="636" alt="image" src="https://github.com/user-attachments/assets/a7ed7ec4-aad5-41c9-8221-70fdc81da49b" /># LPC2148-TIME-STAMPPED-SENSOR-DATA-LOGGER
+## LPC2148-TIME-STAMPPED-SENSOR-DATA-LOGGER
 
 ## Overview
 
@@ -371,7 +371,7 @@ TIME_STAMPED_SENSOR_DATA_LOGGER/
 ![Project Block Diagram](Screenshot%202026-09-14%20103650.png)
 
 ## Hardware Output
-![Project Block Diagram](Screenshot%202026-09-15%20142439.png)
+![Project Block Diagram](Screenshot%202026-09-15%20143100.png)
 
 ## Flash Magic Terminal Output
 
